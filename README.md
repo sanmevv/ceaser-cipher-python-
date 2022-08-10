@@ -1,0 +1,2 @@
+# ceaser-cipher-python-
+Caesar Cipher Technique is the simple and easy method of encryption technique.  It is simple type of substitution cipher.  Each letter of plain text is replaced by a letter with some fixed number of positions down with alphabet.For each character in the given plain text, transform the given character as per the rule depending on the procedure of encryption and decryption of text.  After the steps is followed, a new string is generated which is referred as cipher text.
